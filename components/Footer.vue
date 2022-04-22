@@ -4,7 +4,7 @@
 <p class="text-gray-300">Kontakta oss <br>
 Olle.raback@abbgymnasiet.se <br>
 <a href="https://twitter.com/BarackObama">twitter</a> <br>
-<a href="https://www.instagram.com/barackobama/">Instagram</a>
+<a href="https://www.instagram.com/barackobama/">Instagrom</a>
 </p>
 
 
