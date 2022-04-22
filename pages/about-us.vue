@@ -5,7 +5,7 @@
             <div class="py-5">
                 <p
                     class="w-2/3"
-                >Den här bloggens enda syfte var för mig att bara kunna skriva lite om länder utan att behöva tänka speciellt mycket på varför och hur jag skriver. Jag vet inte riktigt vad du tänkte att du skulle hitta här men tyckte du om det får du hjärna föja oss på twitter eller skicka ett mejl med ett snällt meddelande. Typ "oj vad fin du är idag" och så kan jag svara med att du också är gullig. Till höger kan du se en bild på skaparen av bloggen aka en bild på mig "hej hej". Just nu har vi bara länkat våran twitter och instagram därför vi inte har orkat fixa något annat det är inte särskillt svårt men saken är den att vi inte har en facebook eller något annat. Om du hittar någon med vårat namn så är det en fejk.</p>
+                >Den här bloggens enda syfte var för mig att bara kunna skriva lite om länder utan att behöva tänka speciellt mycket på varför och hur jag skriver. Jag vet inte riktigt vad du tänkte att du skulle hitta här men tyckte du om det får du gärna föja oss på twitter eller skicka ett mejl med ett snällt meddelande. Typ "oj vad fin du är idag" och så kan jag svara med att du också är gullig. Till höger kan du se en bild på skaparen av bloggen aka en bild på mig "hej hej". Just nu har vi bara länkat våran twitter och instagram därför vi inte har orkat fixa något annat det är inte särskillt svårt men saken är den att vi inte har en facebook eller något annat. Om du hittar någon med vårat namn så är det en fejk.</p>
             </div>
             <div>
                 <img
