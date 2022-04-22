@@ -7,7 +7,7 @@
                 class="border-solid border border-gray-500 bg-white rounded-md mx-2 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-200 focus:ring-opacity-50"
             >Hem</nuxt-link>
             <nuxt-link
-                to="about-me"
+                to="about-us"
                 class="border-solid border border-gray-500 rounded-md mx-2 hover:bg-gray-100 focus:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-200 focus:ring-opacity-50"
             >Om oss</nuxt-link>
 
