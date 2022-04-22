@@ -1,18 +1,16 @@
 <template>
 <div>
     <div >
-        <Huvud />
+        <HeaderComponent />
         <div class="min-h-screen bg-coolgray">
             <nuxt/>
         </div>
     </div>
-    <Fot />
+    <FooterComponent />
     
 </div>
 </template>
 
 
 <script>
-import Huvud from "../components/Header.vue"
-import Fot from "../components/Footer.vue"
 </script>
